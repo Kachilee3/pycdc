@@ -1,0 +1,14 @@
+
+*.swp
+
+*.swo
+
+*.gcno
+
+*.gcda
+
+*.kdev4
+
+/.kdev4
+
+__pycache__
