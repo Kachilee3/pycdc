@@ -11,7 +11,7 @@ decompiler (pycdc).
 
 As the name implies, Decompyle++ is written in C++.
 If you wish to contribute, please fork us on github at 
-https://github.com/zrax/pycdc
+https://github.com/fuckyouthief/pycdc
 
 ## Building Decompyle++
 * Generate a project or makefile with [CMake](http://www.cmake.org) (See CMake's documentation for details)
@@ -42,10 +42,10 @@ Any errors are printed to stderr.
 Decompyle++ is the work of Michael Hansen and Darryl Pogue.
 
 Additional contributions from:
-* charlietang98
-* Kunal Parmar
-* Olivier Iffrig
-* Zlodiy
+* Kachi
+* Karma David
+* Chigozieworldwide
+* 
 
 It is released under the terms of the GNU General Public License, version 3;
 See LICENSE file for details.
